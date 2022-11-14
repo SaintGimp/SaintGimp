@@ -6,4 +6,4 @@
 
 - Blog: [saintgimp.org](https://saintgimp.org/)
 - Twitter: [@saintgimp](https://twitter.com/SaintGimp)
-- Mastodon: <a rel="me" href="https://mastodon.social/@saintgimp">https://mastodon.social/@saintgimp</a>
+- Mastodon: [@saintgimp@mastodon.social](https://mastodon.social/@saintgimp)
